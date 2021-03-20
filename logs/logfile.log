@@ -1,0 +1,5 @@
+INFO  | 2021-03-20 22:06:42 | [main] Bridgelabz.Hello (Hello.java:11) - Hello eclips from maven projectWill be printed on info
+WARN  | 2021-03-20 22:06:42 | [main] Bridgelabz.Hello (Hello.java:12) - Hello eclips from maven projectWill be printed on warn
+ERROR | 2021-03-20 22:06:42 | [main] Bridgelabz.Hello (Hello.java:13) - Hello eclips from maven projectWill be printed on error
+FATAL | 2021-03-20 22:06:42 | [main] Bridgelabz.Hello (Hello.java:14) - Hello eclips from maven projectWill be printed on fatal
+INFO  | 2021-03-20 22:06:42 | [main] Bridgelabz.Hello (Hello.java:15) - Hello eclips from maven projectWill be printed on info
